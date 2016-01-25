@@ -1,0 +1,5 @@
+D:\Other\BankTdd\BankTdd\bin\Debug\BankTdd.dll
+D:\Other\BankTdd\BankTdd\bin\Debug\BankTdd.pdb
+D:\Other\BankTdd\BankTdd\obj\Debug\BankTdd.csprojResolveAssemblyReference.cache
+D:\Other\BankTdd\BankTdd\obj\Debug\BankTdd.dll
+D:\Other\BankTdd\BankTdd\obj\Debug\BankTdd.pdb
